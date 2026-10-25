@@ -28,6 +28,9 @@ I believe a good analysis should be as clear and compelling as it is correct. My
 **[Poetry Eye](https://github.com/reedatj/poetry-eye)**
 A generative animation built in Python and pygame, where an eye is drawn entirely from rotating rings of verse. It is a creative coding experiment that shows how code can be used as an artistic medium.
 
+**[Poetry Lily](https://github.com/reedatj/poetry-lily)**
+A 3D animation of a lily built from about 26,000 particles, using NumPy for the projection and pygame for the rendering. The flower grows, blooms and rotates, then its particles settle into lines of poetry. It combines 3D geometry, data processing and visual storytelling.
+
 More data projects are coming soon.
 
 ## Tools
