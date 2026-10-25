@@ -33,7 +33,6 @@ A 3D animation of a lily built from about 26,000 particles, using NumPy for the 
 
 More data projects are coming soon.
 
-## Tools
 
 ## Tools
 
