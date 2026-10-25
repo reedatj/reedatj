@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Farida 👋🏾
+# Hi, I'm Farida
 
 ### Data Scientist · Data Storyteller · Tech Lover
 
