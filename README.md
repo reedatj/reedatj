@@ -23,7 +23,7 @@ I believe a good analysis should be as clear and compelling as it is correct. My
 - Statistical modeling and regression
 - Creative coding at the crossroads of art and technology
 
-## Featured project
+## Featured projects
 
 **[Poetry Eye](https://github.com/reedatj/poetry-eye)**
 A generative animation built in Python and pygame, where an eye is drawn entirely from rotating rings of verse. It is a creative coding experiment that shows how code can be used as an artistic medium.
@@ -35,8 +35,11 @@ More data projects are coming soon.
 
 ## Tools
 
+## Tools
+
 ![Python](https://img.shields.io/badge/Python-ff78b4?style=for-the-badge&logo=python&logoColor=white)
 ![pygame](https://img.shields.io/badge/pygame--ce-c88cff?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-ffd682?style=for-the-badge&logo=numpy&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffd682?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ## Connect
