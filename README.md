@@ -2,7 +2,7 @@
 
 # Hi, I'm Farida
 
-### Data Scientist · Data Storyteller · Tech Lover
+### Data Science Student · Data Storyteller · Tech Lover
 
 </div>
 
