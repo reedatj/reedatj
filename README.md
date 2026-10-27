@@ -31,6 +31,9 @@ A generative animation built in Python and pygame, where an eye is drawn entirel
 **[Poetry Lily](https://github.com/reedatj/poetry-lily)**
 A 3D animation of a lily built from about 26,000 particles, using NumPy for the projection and pygame for the rendering. The flower grows, blooms and rotates, then its particles settle into lines of poetry. It combines 3D geometry, data processing and visual storytelling.
 
+**[Coded Monalisa](https://github.com/reedatj/coded-mona-lisa)**
+A program that repaints the Mona Lisa with about 30,000 brush strokes, from rough shapes to fine detail. Each stroke takes its color from the image and follows its edges using gradient analysis, and a saliency map puts the finest detail on the face and hands. Built with Python, pygame and NumPy.
+
 More data projects are coming soon.
 
 
